@@ -1,7 +1,7 @@
-=== Koyomi Widget ===
+=== My Widgets Widget ===
 Contributors: V.J.Catkick
 Donate link: http://www.vjcatkick.com/
-Tags: Japanese calendar, koyomi, moon phase, sidebar
+Tags: widget, list, subversion repository, sidebar
 Requires at least: 2.5
 Tested up to: 2.7
 Stable tag: 4.3
