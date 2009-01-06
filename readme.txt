@@ -12,7 +12,8 @@ Display repository's your widgets list on your sidebar with local documentation 
 
 This widget lists repository's your widget list onto your sidebar automatically. So you do not need writing troublesome widget list anymore. If you update source file (and readme.txt), the widget pulled information from wordpress.org after it published.
 
-checkout more detail at description page: http://www.vjcatkick.com/?page_id=5693
+checkout more detail at description page: 
+http://www.vjcatkick.com/?page_id=5693
 
 == Installation ==
 
