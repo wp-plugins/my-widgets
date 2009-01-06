@@ -1,4 +1,4 @@
-=== My Widgets Widget ===
+=== My Widgets ===
 Contributors: V.J.Catkick
 Donate link: http://www.vjcatkick.com/
 Tags: widget, list, subversion repository, sidebar

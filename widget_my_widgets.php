@@ -126,7 +126,7 @@ function widget_my_widgets_init() {
 			} /* for */
 
 			foreach( $w_datas as $wdata ) {
-				$_output .= '<li class="my_widget_title" >' . $wdata[ 'plginpage_atag' ] . str_replace (" Widget", "", $wdata[ 'title' ] ) . '</a></li>';
+				$_output .= '<li class="my_widget_title" >' . $wdata[ 'plginpage_atag' ] . $wdata[ 'title' ] . '</a></li>';
 
 				if( $display_description ) {
 					$_output .= '<div class="my_widget_description" style="margin-left: 10px; margin-right: 10px; text-align:left; text-align: justify; text-justify: auto; margin-bottom: 0.4em; font-size:7pt; color:#888;">';
