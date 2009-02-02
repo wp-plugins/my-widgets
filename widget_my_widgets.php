@@ -206,7 +206,6 @@ function widget_my_widgets_init() {
 //
 // and so on.
 
-
 // --
 		$output .= '<div style="text-align:left;"></div>'; // this is dummy for IE
 		// These lines generate the output
